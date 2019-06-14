@@ -1,0 +1,3 @@
+rootProject.name = 'RNPokeSearch'
+
+include ':app'
